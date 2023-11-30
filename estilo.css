@@ -1,0 +1,222 @@
+
+
+h1 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(16, 16, 215);
+}
+h2 {
+  color: rgb(16, 16, 215);
+}
+#capa {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://tse2.mm.bing.net/th?id=OIP.c9hUdv21kV-l7vL1j6PreQHaEo&pid=Api&P=0&h=180);
+  color: aliceblue;
+}
+h1 {
+  color: blue;
+  margin-top: 60px;
+  font-size: 40px;
+}
+h2 {
+  color: rgb(5, 135, 158);
+  font-size: 50px;
+}
+p {
+  font-size: 35px;
+}
+#projeto {
+  text-align: center;
+}
+p {
+  font-size: 25px;
+}
+
+#botao {
+  border: solid 1px rgb(81, 192, 243);
+  border-radius: 8px;
+  color: rgb(21, 166, 233);
+  background-color: rgb(62, 187, 236);
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+  font-size: 25px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px rgb(49, 47, 47);
+}
+
+#botao:hover {
+  background-color: rgb(102, 218, 253);
+  color: aliceblue;
+  transform: scale(1.2);
+}
+#obg {
+  color: rgb(255, 255, 255);
+}
+#titulo {
+  color: rgb(5, 135, 158);
+}
+#texto {
+  color: rgb(5, 135, 158);
+  text-align: center;
+  font-size: 35px;
+  height: 20vh;
+}
+#foto1{
+    margin-right: 30px;
+
+}
+
+#alinhamento{
+    display: flex;
+}
+.botao{
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.flex{
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  margin-top: 20px;
+  color:rgb(8, 175, 204);
+}
+.p1{
+  border: 2.5px solid rgb(0, 0, 0);
+  border-radius: 50px;
+  padding: 10px;
+  background-color: black;
+}
+.p2{
+  border: 2.5px solid rgb(0, 0, 0);
+  border-radius: 50px;
+  padding: 20px;
+  background-color: rgb(0, 0, 0);
+}
+.p3{
+  border: 2.5px solid rgb(0, 0, 0);
+  border-radius: 50px;
+  padding: 10px;
+  background-color: black;
+}
+#image{
+  border-radius: 40px;
+  padding: 20px;
+  align-items: center;
+}
+#inicial{
+  color: rgb(5, 135, 158);
+  text-align: center;
+  font-size: 50px;
+  height: 5vh;
+  
+}
+#image2{
+  border-radius: 50px rgb(5, 135, 158);
+  padding: 30px;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  height: 50%;
+}
+.flex2{
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  margin-top: 20px;
+  color:rgb(8, 175, 204);
+}
+.p4{
+  border: 2.5px solid rgb(0, 0, 0);
+  border-radius: 50px;
+  padding: 20px;
+  background-color: rgb(0, 0, 0);
+}
+.p5{
+  border-radius: 50px rgb(5, 135, 158);
+  padding: 30px;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  height: 50%;
+}
+.p6{
+  border: 2.5px solid rgb(0, 0, 0);
+  border-radius: 50px;
+  padding: 20px;
+  background-color: rgb(0, 0, 0);
+}
+.conteiner{
+  height: 100%;
+}
+.conteiner p{
+  height: 50%;
+
+}
+#desenvolvimento{
+  margin: 0px 200px 0px 200px;
+}
+
+@media screen and (max-width: 768px) {
+  #capa{
+    height: 70vh;
+  }
+  #desenvolvimento{
+    padding: 40px 0;
+  }
+  .flex{
+    flex-direction: column;
+  }
+  .item{
+    width: 100%;
+  }
+
+}
+.flex3{
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  margin-top: 20px;
+  color:rgb(8, 175, 204);
+}
+.p7{
+  border: 2.5px solid rgb(0, 0, 0);
+  border-radius: 50px;
+  padding: 20px;
+  background-color: rgb(0, 0, 0);
+}
+#image3{
+  border-radius: 50px;
+  padding: 30px;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  height: 50%;
+}
+.p9{
+  border: 2.5px solid black;
+  border-radius: 50px;
+  padding: 20px;
+  background-color: black;
+}
+  
+
+  
+
+
+
+
+
+  
+
+
